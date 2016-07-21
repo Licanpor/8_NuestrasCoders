@@ -1,0 +1,11 @@
+.inline{
+	display: inline-block;
+	margin: 15px;
+	position: relative;
+}
+.texto{
+	color:white;
+	position: absolute;
+	top:175px;
+	left:90px ;
+}
